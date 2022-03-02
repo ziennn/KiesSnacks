@@ -1,2 +1,9 @@
 # KiesSnacks
-Sample ordering website for Kie's Snacks
+
+Default logins:
+
+admin
+123456
+
+user
+user
