@@ -1,4 +1,4 @@
-# KiesSnacks
+# Kie's Snacks
 
 Default logins:
 
